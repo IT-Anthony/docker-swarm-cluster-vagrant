@@ -2,4 +2,4 @@ Deux dossiers contenant chacun un fichier Vagrantfile permettant de configurer u
 
 Le but ici est de pouvoir prendre en main Vagrant ainsi qu'appréhender la mise en cluster via Swarm.
 
-Plus d'informations sur l'article de mon site internet : 
+Plus d'informations sur l'article de mon site internet : https://notamax.be/creation-dun-cluster-docker-swarm-via-vagrant/
